@@ -6,43 +6,43 @@ const characters = [
     {
         name: "クレー",
         attribute: "炎",
-        icon: "🔥"
+        icon: "🔥",
         image: "炎元素キャラ/クレー.png"
     },
     {
         name: "モナ",
         attribute: "水",
-        icon: "💧"
+        icon: "💧",
         image: "水元素キャラ/モナ.png"
     },
     {
         name: "エウルア",
         attribute: "氷",
-        icon: "❄️"
+        icon: "❄️",
         image: "氷元素キャラ/エウルア.webp"
     },
     {
         name: "刻晴",
         attribute: "雷",
-        icon: "⚡"
+        icon: "⚡",
         image: "雷元素キャラ/刻晴.webp"
     },
     {
         name: "白朮",
         attribute: "草",
-        icon: "🌿"
+        icon: "🌿",
         image: "草元素キャラ/白朮.png"
     },
     {
         name: "ジン",
         attribute: "風",
-        icon: "🌪️"
+        icon: "🌪️",
         image: "風元素キャラ/ジン.webp"
     },
     {
         name: "アルベド",
         attribute: "岩",
-        icon: "🪨"
+        icon: "🪨",
         image: "岩元素キャラ/アルベド.webp"
     }
 ];
