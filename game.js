@@ -8,38 +8,37 @@ const characters = [
         attribute: "炎",
         icon: "🔥"
     },
-
     {
         name: "水の魔導士",
         attribute: "水",
         icon: "💧"
     },
-
     {
         name: "氷の騎士",
         attribute: "氷",
         icon: "❄️"
     },
-
     {
         name: "雷の剣士",
         attribute: "雷",
         icon: "⚡"
     },
-
     {
         name: "草の精霊",
         attribute: "草",
         icon: "🌿"
     },
-
     {
         name: "風の旅人",
         attribute: "風",
         icon: "🌪️"
+    },
+    {
+        name: "岩の守護者",
+        attribute: "岩",
+        icon: "🪨"
     }
 ];
-
 
 // ==========================
 // 属性反応
@@ -47,6 +46,7 @@ const characters = [
 
 const reactions = {
 
+    // 炎
     "炎+水": {
         name: "蒸発",
         damage: 150
@@ -67,6 +67,8 @@ const reactions = {
         damage: 100
     },
 
+
+    // 水
     "水+氷": {
         name: "凍結",
         damage: 80
@@ -82,33 +84,58 @@ const reactions = {
         damage: 130
     },
 
+
+    // 氷
     "氷+雷": {
         name: "超電導",
         damage: 90
     },
 
-    "氷+風": {
-        name: "拡散・氷",
-        damage: 80
-    },
 
+    // 風
     "炎+風": {
-        name: "拡散・炎",
+        name: "拡散",
         damage: 100
     },
 
     "水+風": {
-        name: "拡散・水",
+        name: "拡散",
         damage: 100
     },
 
-    "雷+風": {
-        name: "拡散・雷",
+    "氷+風": {
+        name: "拡散",
+        damage: 100
+    },
+
+    "風+雷": {
+        name: "拡散",
+        damage: 100
+    },
+
+
+    // 岩
+    "炎+岩": {
+        name: "結晶",
+        damage: 100
+    },
+
+    "水+岩": {
+        name: "結晶",
+        damage: 100
+    },
+
+    "岩+雷": {
+        name: "結晶",
+        damage: 100
+    },
+
+    "岩+氷": {
+        name: "結晶",
         damage: 100
     }
 
 };
-
 
 // ==========================
 // 選択したキャラクター
