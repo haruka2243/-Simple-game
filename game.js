@@ -7,36 +7,43 @@ const characters = [
         name: "炎の戦士",
         attribute: "炎",
         icon: "🔥"
+        image: "炎元素キャラ/"
     },
     {
         name: "水の魔導士",
         attribute: "水",
         icon: "💧"
+        image: "水元素キャラ/"
     },
     {
         name: "氷の騎士",
         attribute: "氷",
         icon: "❄️"
+        image: "氷元素キャラ/"
     },
     {
         name: "雷の剣士",
         attribute: "雷",
         icon: "⚡"
+        image: "雷元素キャラ/"
     },
     {
         name: "草の精霊",
         attribute: "草",
         icon: "🌿"
+        image: "草元素キャラ/"
     },
     {
         name: "風の旅人",
         attribute: "風",
         icon: "🌪️"
+        image: "風元素キャラ/"
     },
     {
         name: "岩の守護者",
         attribute: "岩",
         icon: "🪨"
+        image: "岩元素キャラ/"
     }
 ];
 
