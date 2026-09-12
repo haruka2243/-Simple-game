@@ -4,43 +4,43 @@
 
 const characters = [
     {
-        name: "炎の戦士",
+        name: "クレー",
         attribute: "炎",
         icon: "🔥"
         image: "炎元素キャラ/クレー.png"
     },
     {
-        name: "水の魔導士",
+        name: "モナ",
         attribute: "水",
         icon: "💧"
         image: "水元素キャラ/モナ.png"
     },
     {
-        name: "氷の騎士",
+        name: "エウルア",
         attribute: "氷",
         icon: "❄️"
         image: "氷元素キャラ/エウルア.webp"
     },
     {
-        name: "雷の剣士",
+        name: "刻晴",
         attribute: "雷",
         icon: "⚡"
         image: "雷元素キャラ/刻晴.webp"
     },
     {
-        name: "草の精霊",
+        name: "白朮",
         attribute: "草",
         icon: "🌿"
         image: "草元素キャラ/白朮.png"
     },
     {
-        name: "風の旅人",
+        name: "ジン",
         attribute: "風",
         icon: "🌪️"
         image: "風元素キャラ/ジン.webp"
     },
     {
-        name: "岩の守護者",
+        name: "アルベド",
         attribute: "岩",
         icon: "🪨"
         image: "岩元素キャラ/アルベド.webp"
