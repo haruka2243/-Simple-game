@@ -3,23 +3,31 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>クリックゲーム</title>
+
+    <title>属性反応ゲーム</title>
+
     <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
 
-    <h1>🎯 クリックゲーム</h1>
+    <h1>⚔️ 属性反応ゲーム</h1>
 
-    <div class="info">
-        <span>スコア：<b id="score">0</b></span>
-        <span>残り時間：<b id="time">30</b>秒</span>
+    <p>キャラクターを2体選んでください</p>
+
+    <div id="characters"></div>
+
+    <div class="selected">
+        <h2>選択中</h2>
+
+        <div id="selectedCharacters">
+            まだ選択されていません
+        </div>
     </div>
 
-    <button id="startButton">ゲームスタート</button>
-
-    <div id="gameArea">
-        <button id="target">クリック！</button>
+    <div id="reaction">
+        <h2>属性反応</h2>
+        <p>キャラクターを2体選択してください</p>
     </div>
 
     <script src="game.js"></script>
