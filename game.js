@@ -206,10 +206,13 @@ characters.forEach((character, index) => {
     card.className = "character";
 
     card.innerHTML = `
-    <img src="${character.image}" class="character-image">
-    <div class="name">${character.name}</div>
-    <div class="attribute">${character.icon} ${character.attribute}</div>
-`;
+        <img src="${character.image}" class="character-image">
+        <div class="name">${character.name}</div>
+        <div class="attribute">
+            <img src="${character.icon}" class="element-icon">
+            ${character.attribute}
+        </div>
+    `;
 
     card.addEventListener("click", () => {
         selectCharacter(index, card);
