@@ -252,9 +252,10 @@ function checkReaction() {
     const attr2 = char2.attribute;
 
     // 属性を並び替えて検索
-    const key = [attr1, attr2].sort().join("+");
-
-    const reaction = reactions[key];
+    const key1 = attr1 + "+" + attr2;
+    const key2 = attr2 + "+" + attr1;
+    
+    const reaction = reactions[key1] || reactions[key2];
 
     const reactionArea = document.getElementById("reaction");
 
