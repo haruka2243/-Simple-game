@@ -275,11 +275,10 @@ function updateSelected() {
         const character = characters[index];
 
         return `
-            ${character.icon}
-            ${character.name}
-            （${character.attribute}）
-        `;
-
+    　　    <img src="${character.icon}" class="element-icon">
+    　　    ${character.name}
+    　      (${character.attribute}）
+　　　　`;
     }).join("　＋　");
 }
 
