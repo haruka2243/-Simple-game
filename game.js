@@ -10,10 +10,22 @@ const characters = [
         image: "炎元素キャラ/クレー.png"
     },
     {
+        name: "",
+        attribute: "炎",
+        icon: "🔥",
+        image: "炎元素キャラ/"
+    },
+    {
         name: "モナ",
         attribute: "水",
         icon: "💧",
         image: "水元素キャラ/モナ.png"
+    },
+     {
+        name: "",
+        attribute: "水",
+        icon: "💧",
+        image: "水元素キャラ/"
     },
     {
         name: "エウルア",
@@ -22,10 +34,22 @@ const characters = [
         image: "氷元素キャラ/エウルア.webp"
     },
     {
+        name: "",
+        attribute: "氷",
+        icon: "❄️",
+        image: "氷元素キャラ/"
+    },
+    {
         name: "刻晴",
         attribute: "雷",
         icon: "⚡",
         image: "雷元素キャラ/刻晴.webp"
+    },
+    {
+        name: "",
+        attribute: "雷",
+        icon: "⚡",
+        image: "雷元素キャラ/"
     },
     {
         name: "白朮",
@@ -33,17 +57,35 @@ const characters = [
         icon: "🌿",
         image: "草元素キャラ/白朮.png"
     },
+     {
+        name: "",
+        attribute: "草",
+        icon: "🌿",
+        image: "草元素キャラ/"
+    },
     {
         name: "ジン",
         attribute: "風",
         icon: "🌪️",
         image: "風元素キャラ/ジン.webp"
     },
+     {
+        name: "",
+        attribute: "風",
+        icon: "🌪️",
+        image: "風元素キャラ/"
+    },
     {
         name: "アルベド",
         attribute: "岩",
         icon: "🪨",
         image: "岩元素キャラ/アルベド.webp"
+    },
+    {
+        name: "",
+        attribute: "岩",
+        icon: "🪨",
+        image: "岩元素キャラ/"
     }
 ];
 
