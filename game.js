@@ -6,7 +6,7 @@ const characters = [
     {
         name: "クレー",
         attribute: "炎",
-        icon: "🔥",
+        icon: "元素アイコン/炎.png",
         image: "炎元素キャラ/クレー.png"
     },
     {
