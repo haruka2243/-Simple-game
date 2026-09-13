@@ -16,12 +16,114 @@ const characters = [
         image: "炎元素キャラ/"
     },
     {
+        name: "",
+        attribute: "炎",
+        icon: "元素アイコン/炎元素.png",
+        image: "炎元素キャラ/"
+    },
+    {
+        name: "",
+        attribute: "炎",
+        icon: "元素アイコン/炎元素.png",
+        image: "炎元素キャラ/"
+    },
+    {
+        name: "",
+        attribute: "炎",
+        icon: "元素アイコン/炎元素.png",
+        image: "炎元素キャラ/"
+    },
+    {
+        name: "",
+        attribute: "炎",
+        icon: "元素アイコン/炎元素.png",
+        image: "炎元素キャラ/"
+    },
+    {
+        name: "",
+        attribute: "炎",
+        icon: "元素アイコン/炎元素.png",
+        image: "炎元素キャラ/"
+    },
+    {
+        name: "",
+        attribute: "炎",
+        icon: "元素アイコン/炎元素.png",
+        image: "炎元素キャラ/"
+    },
+    {
+        name: "",
+        attribute: "炎",
+        icon: "元素アイコン/炎元素.png",
+        image: "炎元素キャラ/"
+    },
+    {
+        name: "",
+        attribute: "炎",
+        icon: "元素アイコン/炎元素.png",
+        image: "炎元素キャラ/"
+    },
+    {
         name: "モナ",
         attribute: "水",
         icon: "元素アイコン/水元素.png",
         image: "水元素キャラ/モナ.png"
     },
-     {
+    {
+        name: "",
+        attribute: "水",
+        icon: "元素アイコン/水元素.png",
+        image: "水元素キャラ/"
+    },
+    {
+        name: "",
+        attribute: "水",
+        icon: "元素アイコン/水元素.png",
+        image: "水元素キャラ/"
+    },
+    {
+        name: "",
+        attribute: "水",
+        icon: "元素アイコン/水元素.png",
+        image: "水元素キャラ/"
+    },
+    {
+        name: "",
+        attribute: "水",
+        icon: "元素アイコン/水元素.png",
+        image: "水元素キャラ/"
+    },
+    {
+        name: "",
+        attribute: "水",
+        icon: "元素アイコン/水元素.png",
+        image: "水元素キャラ/"
+    },
+    {
+        name: "",
+        attribute: "水",
+        icon: "元素アイコン/水元素.png",
+        image: "水元素キャラ/"
+    },
+    {
+        name: "",
+        attribute: "水",
+        icon: "元素アイコン/水元素.png",
+        image: "水元素キャラ/"
+    },
+    {
+        name: "",
+        attribute: "水",
+        icon: "元素アイコン/水元素.png",
+        image: "水元素キャラ/"
+    },
+    {
+        name: "",
+        attribute: "水",
+        icon: "元素アイコン/水元素.png",
+        image: "水元素キャラ/"
+    },
+    {
         name: "",
         attribute: "水",
         icon: "元素アイコン/水元素.png",
@@ -40,10 +142,113 @@ const characters = [
         image: "氷元素キャラ/"
     },
     {
+        name: "",
+        attribute: "氷",
+        icon: "元素アイコン/氷元素.png",
+        image: "氷元素キャラ/"
+    },
+    {
+        name: "",
+        attribute: "氷",
+        icon: "元素アイコン/氷元素.png",
+        image: "氷元素キャラ/"
+    },
+    {
+        name: "",
+        attribute: "氷",
+        icon: "元素アイコン/氷元素.png",
+        image: "氷元素キャラ/"
+    },
+    {
+        name: "",
+        attribute: "氷",
+        icon: "元素アイコン/氷元素.png",
+        image: "氷元素キャラ/"
+    },
+    {
+        name: "",
+        attribute: "氷",
+        icon: "元素アイコン/氷元素.png",
+        image: "氷元素キャラ/"
+    },
+    {
+        name: "",
+        attribute: "氷",
+        icon: "元素アイコン/氷元素.png",
+        image: "氷元素キャラ/"
+    },
+    {
+        name: "",
+        attribute: "氷",
+        icon: "元素アイコン/氷元素.png",
+        image: "氷元素キャラ/"
+    },
+    {
+        name: "",
+        attribute: "氷",
+        icon: "元素アイコン/氷元素.png",
+        image: "氷元素キャラ/"
+    },
+    {
+        name: "",
+        attribute: "氷",
+        icon: "元素アイコン/氷元素.png",
+        image: "氷元素キャラ/"
+    },
+    {
+        name: "",
+        attribute: "氷",
+        icon: "元素アイコン/氷元素.png",
+        image: "氷元素キャラ/"
+    },
+    {
+        name: "",
+        attribute: "氷",
+        icon: "元素アイコン/氷元素.png",
+        image: "氷元素キャラ/"
+    },
+    
+    {
         name: "刻晴",
         attribute: "雷",
         icon: "元素アイコン/雷元素.png",
         image: "雷元素キャラ/刻晴.webp"
+    },
+    {
+        name: "",
+        attribute: "雷",
+        icon: "元素アイコン/雷元素.png",
+        image: "雷元素キャラ/"
+    },
+    {
+        name: "",
+        attribute: "雷",
+        icon: "元素アイコン/雷元素.png",
+        image: "雷元素キャラ/"
+    },
+    {
+        name: "",
+        attribute: "雷",
+        icon: "元素アイコン/雷元素.png",
+        image: "雷元素キャラ/"
+    },
+    {
+        name: "",
+        attribute: "雷",
+        icon: "元素アイコン/雷元素.png",
+        image: "雷元素キャラ/"
+    },
+    {
+        name: "",
+        attribute: "雷",
+        icon: "元素アイコン/雷元素.png",
+        image: "雷元素キャラ/"
+    },
+    {
+        name: "",
+        attribute: "雷",
+        icon: "元素アイコン/雷元素.png",
+        image: "雷元素キャラ/"
     },
     {
         name: "",
@@ -57,7 +262,43 @@ const characters = [
         icon: "元素アイコン/草元素.png",
         image: "草元素キャラ/白朮.png"
     },
-     {
+    {
+        name: "",
+        attribute: "草",
+        icon: "元素アイコン/草元素.png",
+        image: "草元素キャラ/"
+    },
+    {
+        name: "",
+        attribute: "草",
+        icon: "元素アイコン/草元素.png",
+        image: "草元素キャラ/"
+    },
+    {
+        name: "",
+        attribute: "草",
+        icon: "元素アイコン/草元素.png",
+        image: "草元素キャラ/"
+    },
+    {
+        name: "",
+        attribute: "草",
+        icon: "元素アイコン/草元素.png",
+        image: "草元素キャラ/"
+    },
+    {
+        name: "",
+        attribute: "草",
+        icon: "元素アイコン/草元素.png",
+        image: "草元素キャラ/"
+    },
+    {
+        name: "",
+        attribute: "草",
+        icon: "元素アイコン/草元素.png",
+        image: "草元素キャラ/"
+    },
+    {
         name: "",
         attribute: "草",
         icon: "元素アイコン/草元素.png",
@@ -69,7 +310,49 @@ const characters = [
         icon: "元素アイコン/風元素.png",
         image: "風元素キャラ/ジン.webp"
     },
-     {
+    {
+        name: "",
+        attribute: "風",
+        icon: "元素アイコン/風元素.png",
+        image: "風元素キャラ/"
+    },
+    {
+        name: "",
+        attribute: "風",
+        icon: "元素アイコン/風元素.png",
+        image: "風元素キャラ/"
+    },
+    {
+        name: "",
+        attribute: "風",
+        icon: "元素アイコン/風元素.png",
+        image: "風元素キャラ/"
+    },
+    {
+        name: "",
+        attribute: "風",
+        icon: "元素アイコン/風元素.png",
+        image: "風元素キャラ/"
+    },
+    {
+        name: "",
+        attribute: "風",
+        icon: "元素アイコン/風元素.png",
+        image: "風元素キャラ/"
+    },
+    {
+        name: "",
+        attribute: "風",
+        icon: "元素アイコン/風元素.png",
+        image: "風元素キャラ/"
+    },
+    {
+        name: "",
+        attribute: "風",
+        icon: "元素アイコン/風元素.png",
+        image: "風元素キャラ/"
+    },
+    {
         name: "",
         attribute: "風",
         icon: "元素アイコン/風元素.png",
@@ -86,8 +369,44 @@ const characters = [
         attribute: "岩",
         icon: "元素アイコン/岩元素.png",
         image: "岩元素キャラ/"
+    },
+    {
+        name: "",
+        attribute: "岩",
+        icon: "元素アイコン/岩元素.png",
+        image: "岩元素キャラ/"
+    },
+    {
+        name: "",
+        attribute: "岩",
+        icon: "元素アイコン/岩元素.png",
+        image: "岩元素キャラ/"
+    },
+    {
+        name: "",
+        attribute: "岩",
+        icon: "元素アイコン/岩元素.png",
+        image: "岩元素キャラ/"
+    },
+    {
+        name: "",
+        attribute: "岩",
+        icon: "元素アイコン/岩元素.png",
+        image: "岩元素キャラ/"
+    },
+    {
+        name: "",
+        attribute: "岩",
+        icon: "元素アイコン/岩元素.png",
+        image: "岩元素キャラ/"
+    },
+    {
+        name: "",
+        attribute: "岩",
+        icon: "元素アイコン/岩元素.png",
+        image: "岩元素キャラ/"
     }
-];
+    
 
 // ==========================
 // 属性反応
