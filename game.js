@@ -363,13 +363,7 @@ const characters = [
         attribute: "岩",
         icon: "元素アイコン/岩元素.png",
         image: "岩元素キャラ/アルベド.webp"
-    },
-/*    {
-        name: "",
-        attribute: "岩",
-        icon: "元素アイコン/岩元素.png",
-        image: "岩元素キャラ/"
-    },
+/*    },
     {
         name: "",
         attribute: "岩",
@@ -405,8 +399,13 @@ const characters = [
         attribute: "岩",
         icon: "元素アイコン/岩元素.png",
         image: "岩元素キャラ/"
+    },
+    {
+        name: "",
+        attribute: "岩",
+        icon: "元素アイコン/岩元素.png",
+        image: "岩元素キャラ/" */
     } 
-    */
 
 // ==========================
 // 属性反応
