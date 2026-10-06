@@ -9,60 +9,60 @@ const characters = [
         icon: "元素アイコン/炎元素.png",
         image: "炎元素キャラ/クレー.png"
     },
- /*   {
-        name: "",
+    {
+        name: "アルレッキーノ",
         attribute: "炎",
         icon: "元素アイコン/炎元素.png",
-        image: "炎元素キャラ/"
+        image: "炎元素キャラ/アルレッキーノ.png"
     },
     {
-        name: "",
+        name: "ディシア",
         attribute: "炎",
         icon: "元素アイコン/炎元素.png",
-        image: "炎元素キャラ/"
+        image: "炎元素キャラ/ディシア.webp"
     },
     {
-        name: "",
+        name: "ディルック",
         attribute: "炎",
         icon: "元素アイコン/炎元素.png",
-        image: "炎元素キャラ/"
+        image: "炎元素キャラ/ディルック.webp"
     },
     {
-        name: "",
+        name: "ドゥリン",
         attribute: "炎",
         icon: "元素アイコン/炎元素.png",
-        image: "炎元素キャラ/"
+        image: "炎元素キャラ/ドゥリン.png"
     },
     {
-        name: "",
+        name: "ニコ",
         attribute: "炎",
         icon: "元素アイコン/炎元素.png",
-        image: "炎元素キャラ/"
+        image: "炎元素キャラ/ニコ.png"
     },
     {
-        name: "",
+        name: "マーヴィカ",
         attribute: "炎",
         icon: "元素アイコン/炎元素.png",
-        image: "炎元素キャラ/"
+        image: "炎元素キャラ/マーヴィカ.png"
     },
     {
-        name: "",
+        name: "リネ",
         attribute: "炎",
         icon: "元素アイコン/炎元素.png",
-        image: "炎元素キャラ/"
+        image: "炎元素キャラ/リネ.png"
     },
     {
-        name: "",
+        name: "宵宮",
         attribute: "炎",
         icon: "元素アイコン/炎元素.png",
-        image: "炎元素キャラ/"
+        image: "炎元素キャラ/宵宮.webp"
     },
     {
-        name: "",
+        name: "胡桃",
         attribute: "炎",
         icon: "元素アイコン/炎元素.png",
-        image: "炎元素キャラ/"
-    }, */
+        image: "炎元素キャラ/胡桃.webp"
+    }, 
     {
         name: "モナ",
         attribute: "水",
