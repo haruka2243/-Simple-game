@@ -69,66 +69,66 @@ const characters = [
         icon: "元素アイコン/水元素.png",
         image: "水元素キャラ/モナ.png"
     },
-/*    {
-        name: "",
+    {
+        name: "コロンビーナ",
         attribute: "水",
         icon: "元素アイコン/水元素.png",
-        image: "水元素キャラ/"
+        image: "水元素キャラ/コロンビーナ.png"
     },
     {
-        name: "",
+        name: "シグウィン",
         attribute: "水",
         icon: "元素アイコン/水元素.png",
-        image: "水元素キャラ/"
+        image: "水元素キャラ/シグウィン.webp"
     },
     {
-        name: "",
+        name: "タルタリヤ",
         attribute: "水",
         icon: "元素アイコン/水元素.png",
-        image: "水元素キャラ/"
+        image: "水元素キャラ/タルタリヤ.webp"
     },
     {
-        name: "",
+        name: "ニィロウ",
         attribute: "水",
         icon: "元素アイコン/水元素.png",
-        image: "水元素キャラ/"
+        image: "水元素キャラ/ニィロウ.webp"
     },
     {
-        name: "",
+        name: "ヌヴィレット",
         attribute: "水",
         icon: "元素アイコン/水元素.png",
-        image: "水元素キャラ/"
+        image: "水元素キャラ/ヌヴィレット.webp"
     },
     {
-        name: "",
+        name: "フリーナ",
         attribute: "水",
         icon: "元素アイコン/水元素.png",
-        image: "水元素キャラ/"
+        image: "水元素キャラ/フリーナ.webp"
     },
     {
-        name: "",
+        name: "ムアラニ",
         attribute: "水",
         icon: "元素アイコン/水元素.png",
-        image: "水元素キャラ/"
+        image: "水元素キャラ/ムアラニ.png"
     },
     {
-        name: "",
+        name: "夜蘭",
         attribute: "水",
         icon: "元素アイコン/水元素.png",
-        image: "水元素キャラ/"
+        image: "水元素キャラ/夜蘭.webp"
     },
     {
-        name: "",
+        name: "珊瑚宮心海",
         attribute: "水",
         icon: "元素アイコン/水元素.png",
-        image: "水元素キャラ/"
+        image: "水元素キャラ/珊瑚宮心海.webp"
     },
     {
-        name: "",
+        name: "神里綾人",
         attribute: "水",
         icon: "元素アイコン/水元素.png",
-        image: "水元素キャラ/"
-    }, */
+        image: "水元素キャラ/神里綾人.webp"
+    }, 
     {
         name: "エウルア",
         attribute: "氷",
