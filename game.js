@@ -340,10 +340,10 @@ const characters = [
         image: "風元素キャラ/ウェンティ.webp"
     },
     {
-        name: "キャスカ",
+        name: "チャスカ",
         attribute: "風",
         icon: "元素アイコン/風元素.png",
-        image: "風元素キャラ/キャスカ.webp"
+        image: "風元素キャラ/チャスカ.webp"
     },
     {
         name: "ファルカ",
