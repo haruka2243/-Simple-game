@@ -349,7 +349,7 @@ const characters = [
         name: "ファルカ",
         attribute: "風",
         icon: "元素アイコン/風元素.png",
-        image: "風元素キャラ/ファルカ..png"
+        image: "風元素キャラ/ファルカ.png"
     },
     {
         name: "夢見月瑞希",
@@ -435,6 +435,7 @@ const characters = [
         icon: "元素アイコン/岩元素.png",
         image: "岩元素キャラ/鍾離.webp" 
     } 
+];
 
 // ==========================
 // 属性反応
@@ -448,7 +449,7 @@ const reactions = {
         damage: 150
     },
 
-    "水+"炎: {
+    "水+炎": {
         name: "蒸発",
         damage: 150
     },
@@ -520,7 +521,7 @@ const reactions = {
         damage: 90
     },
 
-    "雷+水": {
+    "雷+氷": {
         name: "超電導",
         damage: 90
     },
