@@ -448,12 +448,27 @@ const reactions = {
         damage: 150
     },
 
+    "水+"炎: {
+        name: "蒸発",
+        damage: 150
+    },
+
     "炎+氷": {
         name: "融解",
         damage: 150
     },
+    
+    "氷+炎": {
+        name: "溶解",
+        damage: 150
+    },
 
     "炎+雷": {
+        name: "過負荷",
+        damage: 120
+    },
+
+    "雷+炎": {
         name: "過負荷",
         damage: 120
     },
@@ -463,9 +478,18 @@ const reactions = {
         damage: 100
     },
 
+    "草+炎": {
+        name: "燃焼",
+        damage: 100
+    },
 
     // 水
     "水+氷": {
+        name: "凍結",
+        damage: 80
+    },
+
+    "氷+水": {
         name: "凍結",
         damage: 80
     },
@@ -475,11 +499,20 @@ const reactions = {
         damage: 110
     },
 
+    "雷+水": {
+        name: "感電",
+        damage: 110
+    },
+
     "水+草": {
         name: "開花",
         damage: 130
     },
 
+    "草+水": {
+        name: "開花",
+        damage: 130
+    },
 
     // 氷
     "氷+雷": {
@@ -487,9 +520,18 @@ const reactions = {
         damage: 90
     },
 
+    "雷+水": {
+        name: "超電導",
+        damage: 90
+    },
 
     // 風
     "炎+風": {
+        name: "拡散",
+        damage: 100
+    },
+
+    "風+炎": {
         name: "拡散",
         damage: 100
     },
@@ -499,7 +541,17 @@ const reactions = {
         damage: 100
     },
 
+    "風+水": {
+        name: "拡散",
+        damage: 100
+    },
+
     "氷+風": {
+        name: "拡散",
+        damage: 100
+    },
+
+    "風+氷": {
         name: "拡散",
         damage: 100
     },
@@ -509,9 +561,18 @@ const reactions = {
         damage: 100
     },
 
+    "雷+風": {
+        name: "拡散",
+        damage: 100
+    },
 
     // 岩
     "炎+岩": {
+        name: "結晶",
+        damage: 100
+    },
+
+    "岩+炎": {
         name: "結晶",
         damage: 100
     },
@@ -521,7 +582,17 @@ const reactions = {
         damage: 100
     },
 
+    "岩+水": {
+        name: "結晶",
+        damage: 100
+    },
+
     "岩+雷": {
+        name: "結晶",
+        damage: 100
+    },
+
+    "雷+岩": {
         name: "結晶",
         damage: 100
     },
@@ -529,7 +600,17 @@ const reactions = {
     "岩+氷": {
         name: "結晶",
         damage: 100
-    }
+    },
+
+    "氷+岩": {
+        name: "結晶",
+        damage: 100
+    },
+
+    "+": {
+        name: "",
+        damage: 150
+    },
 
 };
 
