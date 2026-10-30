@@ -135,78 +135,78 @@ const characters = [
         icon: "元素アイコン/氷元素.png",
         image: "氷元素キャラ/エウルア.webp"
     },
-/*    {
-        name: "",
+    {
+        name: "エスコフィエ",
         attribute: "氷",
         icon: "元素アイコン/氷元素.png",
-        image: "氷元素キャラ/"
+        image: "氷元素キャラ/エスコフィエ.png"
     },
     {
-        name: "",
+        name: "オデット",
         attribute: "氷",
         icon: "元素アイコン/氷元素.png",
-        image: "氷元素キャラ/"
+        image: "氷元素キャラ/オデット.png"
     },
     {
-        name: "",
+        name: "サンドローネ",
         attribute: "氷",
         icon: "元素アイコン/氷元素.png",
-        image: "氷元素キャラ/"
+        image: "氷元素キャラ/サンドローネ.png"
     },
     {
-        name: "",
+        name: "シトラリ",
         attribute: "氷",
         icon: "元素アイコン/氷元素.png",
-        image: "氷元素キャラ/"
+        image: "氷元素キャラ/シトラリ.png"
     },
     {
-        name: "",
+        name: "スカーク",
         attribute: "氷",
         icon: "元素アイコン/氷元素.png",
-        image: "氷元素キャラ/"
+        image: "氷元素キャラ/スカーク.webp"
     },
     {
-        name: "",
+        name: "リオセスリ",
         attribute: "氷",
         icon: "元素アイコン/氷元素.png",
-        image: "氷元素キャラ/"
+        image: "氷元素キャラ/リオセスリ.png"
     },
     {
-        name: "",
+        name: "ローエン",
         attribute: "氷",
         icon: "元素アイコン/氷元素.png",
-        image: "氷元素キャラ/"
+        image: "氷元素キャラ/ローエン.webp"
     },
     {
-        name: "",
+        name: "七七",
         attribute: "氷",
         icon: "元素アイコン/氷元素.png",
-        image: "氷元素キャラ/"
+        image: "氷元素キャラ/七七.webp"
     },
     {
-        name: "",
+        name: "甘雨",
         attribute: "氷",
         icon: "元素アイコン/氷元素.png",
-        image: "氷元素キャラ/"
+        image: "氷元素キャラ/甘雨.webp"
     },
     {
-        name: "",
+        name: "申鶴",
         attribute: "氷",
         icon: "元素アイコン/氷元素.png",
-        image: "氷元素キャラ/"
+        image: "氷元素キャラ/申鶴.webp"
     },
     {
-        name: "",
+        name: "神里綾華",
         attribute: "氷",
         icon: "元素アイコン/氷元素.png",
-        image: "氷元素キャラ/"
+        image: "氷元素キャラ/神里綾華.webp"
     },
     {
-        name: "",
+        name: "アーロイ",
         attribute: "氷",
         icon: "元素アイコン/氷元素.png",
-        image: "氷元素キャラ/"
-    }, */
+        image: "氷元素キャラ/アーロイ.webp"
+    }, 
     
     {
         name: "刻晴",
@@ -214,197 +214,197 @@ const characters = [
         icon: "元素アイコン/雷元素.png",
         image: "雷元素キャラ/刻晴.webp"
     },
- /*   {
-        name: "",
+    {
+        name: "イネファ",
         attribute: "雷",
         icon: "元素アイコン/雷元素.png",
-        image: "雷元素キャラ/"
+        image: "雷元素キャラ/イネファ.png"
     },
     {
-        name: "",
+        name: "クロリンデ",
         attribute: "雷",
         icon: "元素アイコン/雷元素.png",
-        image: "雷元素キャラ/"
+        image: "雷元素キャラ/クロリンデ.webp"
     },
     {
-        name: "",
+        name: "セノ",
         attribute: "雷",
         icon: "元素アイコン/雷元素.png",
-        image: "雷元素キャラ/"
+        image: "雷元素キャラ/セノ.webp"
     },
     {
-        name: "",
+        name: "フリンズ",
         attribute: "雷",
         icon: "元素アイコン/雷元素.png",
-        image: "雷元素キャラ/"
+        image: "雷元素キャラ/フリンズ.png"
     },
     {
-        name: "",
+        name: "ヴァレサ",
         attribute: "雷",
         icon: "元素アイコン/雷元素.png",
-        image: "雷元素キャラ/"
+        image: "雷元素キャラ/ヴァレサ.png"
     },
     {
-        name: "",
+        name: "雷電将軍",
         attribute: "雷",
         icon: "元素アイコン/雷元素.png",
-        image: "雷元素キャラ/"
+        image: "雷元素キャラ/雷電将軍.webp"
     },
     {
-        name: "",
+        name: "八重神子",
         attribute: "雷",
         icon: "元素アイコン/雷元素.png",
-        image: "雷元素キャラ/"
-    }, */
+        image: "雷元素キャラ/八重神子.png"
+    }, 
     {
         name: "白朮",
         attribute: "草",
         icon: "元素アイコン/草元素.png",
         image: "草元素キャラ/白朮.png"
     },
-/*    {
-        name: "",
+    {
+        name: "アルハイゼン",
         attribute: "草",
         icon: "元素アイコン/草元素.png",
-        image: "草元素キャラ/"
+        image: "草元素キャラ/アルハイゼン.webp"
     },
     {
-        name: "",
+        name: "エミリエ",
         attribute: "草",
         icon: "元素アイコン/草元素.png",
-        image: "草元素キャラ/"
+        image: "草元素キャラ/エミリエ.webp"
     },
     {
-        name: "",
+        name: "キィニチ",
         attribute: "草",
         icon: "元素アイコン/草元素.png",
-        image: "草元素キャラ/"
+        image: "草元素キャラ/キィニチ.webp"
     },
     {
-        name: "",
+        name: "ティナリ",
         attribute: "草",
         icon: "元素アイコン/草元素.png",
-        image: "草元素キャラ/"
+        image: "草元素キャラ/ティナリ.webp"
     },
     {
-        name: "",
+        name: "ナヒーダ",
         attribute: "草",
         icon: "元素アイコン/草元素.png",
-        image: "草元素キャラ/"
+        image: "草元素キャラ/ナヒーダ.webp"
     },
     {
-        name: "",
+        name: "ネフェル",
         attribute: "草",
         icon: "元素アイコン/草元素.png",
-        image: "草元素キャラ/"
+        image: "草元素キャラ/ネフェル.webp"
     },
     {
-        name: "",
+        name: "ラウマ",
         attribute: "草",
         icon: "元素アイコン/草元素.png",
-        image: "草元素キャラ/"
-    }, */
+        image: "草元素キャラ/ラウマ.webp"
+    }, 
     {
         name: "ジン",
         attribute: "風",
         icon: "元素アイコン/風元素.png",
         image: "風元素キャラ/ジン.webp"
     },
-/*    {
-        name: "",
+    {
+        name: "ウェンティ",
         attribute: "風",
         icon: "元素アイコン/風元素.png",
-        image: "風元素キャラ/"
+        image: "風元素キャラ/ウェンティ.webp"
     },
     {
-        name: "",
+        name: "キャスカ",
         attribute: "風",
         icon: "元素アイコン/風元素.png",
-        image: "風元素キャラ/"
+        image: "風元素キャラ/キャスカ.webp"
     },
     {
-        name: "",
+        name: "ファルカ",
         attribute: "風",
         icon: "元素アイコン/風元素.png",
-        image: "風元素キャラ/"
+        image: "風元素キャラ/ファルカ..png"
     },
     {
-        name: "",
+        name: "夢見月瑞希",
         attribute: "風",
         icon: "元素アイコン/風元素.png",
-        image: "風元素キャラ/"
+        image: "風元素キャラ/夢見月瑞希.webp"
     },
     {
-        name: "",
+        name: "放浪者",
         attribute: "風",
         icon: "元素アイコン/風元素.png",
-        image: "風元素キャラ/"
+        image: "風元素キャラ/放浪者.webp"
     },
     {
-        name: "",
+        name: "楓原万葉",
         attribute: "風",
         icon: "元素アイコン/風元素.png",
-        image: "風元素キャラ/"
+        image: "風元素キャラ/楓原万葉.webp"
     },
     {
-        name: "",
+        name: "閑雲",
         attribute: "風",
         icon: "元素アイコン/風元素.png",
-        image: "風元素キャラ/"
+        image: "風元素キャラ/閑雲.png"
     },
     {
-        name: "",
+        name: "魈",
         attribute: "風",
         icon: "元素アイコン/風元素.png",
-        image: "風元素キャラ/"
-    }, */
+        image: "風元素キャラ/魈.webp"
+    }, 
     {
         name: "アルベド",
         attribute: "岩",
         icon: "元素アイコン/岩元素.png",
         image: "岩元素キャラ/アルベド.webp"
-/*    },
-    {
-        name: "",
-        attribute: "岩",
-        icon: "元素アイコン/岩元素.png",
-        image: "岩元素キャラ/"
     },
     {
-        name: "",
+        name: "シロネン",
         attribute: "岩",
         icon: "元素アイコン/岩元素.png",
-        image: "岩元素キャラ/"
+        image: "岩元素キャラ/シロネン.webp"
     },
     {
-        name: "",
+        name: "ナヴィア",
         attribute: "岩",
         icon: "元素アイコン/岩元素.png",
-        image: "岩元素キャラ/"
+        image: "岩元素キャラ/ナヴィア.png"
     },
     {
-        name: "",
+        name: "リンネア",
         attribute: "岩",
         icon: "元素アイコン/岩元素.png",
-        image: "岩元素キャラ/"
+        image: "岩元素キャラ/リンネア.webp"
     },
     {
-        name: "",
+        name: "千織",
         attribute: "岩",
         icon: "元素アイコン/岩元素.png",
-        image: "岩元素キャラ/"
+        image: "岩元素キャラ/千織.webp"
     },
     {
-        name: "",
+        name: "兹白",
         attribute: "岩",
         icon: "元素アイコン/岩元素.png",
-        image: "岩元素キャラ/"
+        image: "岩元素キャラ/兹白.png"
     },
     {
-        name: "",
+        name: "荒瀧一斗",
         attribute: "岩",
         icon: "元素アイコン/岩元素.png",
-        image: "岩元素キャラ/" */
+        image: "岩元素キャラ/荒瀧一斗.png"
+    },
+    {
+        name: "鍾離",
+        attribute: "岩",
+        icon: "元素アイコン/岩元素.png",
+        image: "岩元素キャラ/鍾離.webp" 
     } 
 
 // ==========================
