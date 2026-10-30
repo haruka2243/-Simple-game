@@ -130,6 +130,12 @@ const characters = [
         image: "水元素キャラ/神里綾人.webp"
     }, 
     {
+        name: "ヴォジャニーツア",
+        attribute: "水",
+        icon: "元素アイコン/水元素.png",
+        image: "水元素キャラ/ヴォジャニーツア.webp"
+    },
+    {
         name: "エウルア",
         attribute: "氷",
         icon: "元素アイコン/氷元素.png",
@@ -207,7 +213,12 @@ const characters = [
         icon: "元素アイコン/氷元素.png",
         image: "氷元素キャラ/アーロイ.webp"
     }, 
-    
+    {
+        name: "アナスターシャ",
+        attribute: "氷",
+        icon: "元素アイコン/氷元素.png",
+        image: "氷元素キャラ/アナスターシャ.png"
+    },
     {
         name: "刻晴",
         attribute: "雷",
@@ -256,6 +267,18 @@ const characters = [
         icon: "元素アイコン/雷元素.png",
         image: "雷元素キャラ/八重神子.png"
     }, 
+    {
+        name: "ミティア",
+        attribute: "雷",
+        icon: "元素アイコン/雷元素.png",
+        image: "雷元素キャラ/ミティア.png"
+    },
+    {
+        name: "ダニカ",
+        attribute: "雷",
+        icon: "元素アイコン/雷元素.png",
+        image: "雷元素キャラ/ダニカ.png"
+    },
     {
         name: "白朮",
         attribute: "草",
@@ -358,6 +381,12 @@ const characters = [
         icon: "元素アイコン/風元素.png",
         image: "風元素キャラ/魈.webp"
     }, 
+    {
+        name: "ヴェスナ",
+        attribute: "風",
+        icon: "元素アイコン/風元素.png",
+        image: "風元素キャラ/ヴェスナ.png"
+    },
     {
         name: "アルベド",
         attribute: "岩",
