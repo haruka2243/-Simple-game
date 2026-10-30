@@ -608,10 +608,15 @@ const reactions = {
         damage: 100
     },
 
-    "+": {
-        name: "",
-        damage: 150
+    "雷+草": {
+        name: "激化",
+        damage: 110
     },
+
+    "草+雷": {
+        name: "激化",
+        damage: 110
+    }
 
 };
 
